@@ -83,30 +83,8 @@ def speak_aunty():
         talk('which friend?') 
         talk('')
         talk('')
-        talk('')
-        talk('')
-        talk('')
-        talk('')
-        talk('')
-        talk('')
-        talk('')
-        talk('')
-        talk('')
-        talk('')
-        talk('')
-        talk('')
-        talk('')
-        talk('tell him pehli fursat Mein nikkal')
         print(talk)
     
-    # elif 'siri' in command:
-    #     sensex_point = nifpy.get_sensex()
-    #     #talk('tell him Pehli Fursat Mai Nikal')
-    #     talk(sensex_point)
-    #     print('playing')
 
 while True:
     speak_aunty()        
-
-
-
